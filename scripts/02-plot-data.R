@@ -1,4 +1,2 @@
-#plot code
-library(ggplot2)
-
-#read in data
+# read in additional soil data
+df2 <- read.csv("...") 
